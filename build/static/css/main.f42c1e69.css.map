@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,sBAAwB,CAG1B,cACE,iBACA,aACA,kBAAoB","file":"static/css/main.f42c1e69.css","sourcesContent":["body {\n  font-family: sans-serif;\n}\n\n.notification {\n  background: green;\n  padding: 20px;\n  margin-bottom: 10px;\n}\n\n\n// WEBPACK FOOTER //\n// ./src/index.css"],"sourceRoot":""}
